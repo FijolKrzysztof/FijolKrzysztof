@@ -22,8 +22,8 @@ I'm a Fullstack Developer who believes in learning by building. My GitHub contai
                       .+*+#:             Oracle • Maven • Liquibase • JSON
                       -*+++                       
                    .=++=-.-*.            DevOps
-                  =**==:.  :+            Git • GitLab • Docker • Kubernetes • CI/CD
-                  +*+=-:::::+                     
+                  =**==:.  :+            
+                  +*+=-:::::+            Git • GitLab • Docker • Kubernetes • CI/CD         
                    .+*+. :=++                     
                       -**+-*.                     
                       .=*#+                       
