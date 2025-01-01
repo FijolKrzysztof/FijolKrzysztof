@@ -33,10 +33,10 @@ I'm a Fullstack Developer who believes in learning by building. My GitHub contai
 ## About My Projects
 My repositories are deliberately left as works in progress - they serve as playgrounds for testing new ideas and implementing various features. Each project represents different aspects of web development, from real-time communication to data visualization and responsive design patterns.
 
-To see all projects in action, visit my [Portfolio](your-portfolio-url)
+To see all projects in action, visit my [Portfolio](https://fijolkrzysztof.github.io/portfolio/)
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
+[LinkedIn](https://www.linkedin.com/in/krzysztof-fijol/)
 
 ---
 
