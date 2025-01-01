@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm a Fullstack Developer who believes in learning by building. This GitHub space contains a collection of work-in-progress projects that showcase my journey in web development. You'll find here various applications in different stages of development, from chat platforms to trading simulations and e-commerce solutions.
+I'm a Fullstack Developer who believes in learning by building. My GitHub contains a collection of work-in-progress projects that showcase my journey in web development. You'll find here various applications in different stages of development, from chat platforms to trading simulations and e-commerce solutions.
 
 ```
                        -*=.                       
