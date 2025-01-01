@@ -19,8 +19,8 @@
                       -*+++                       Git • GitLab • Docker • Kubernetes • CI/CD
                    .=++=-.-*.                     
                   =**==:.  :+                     
-                  +*+=-:::::+                     🔗 (Portfolio)[https://fijolkrzysztof.github.io/portfolio/]
-                   .+*+. :=++                     💼 (LinkedIn)[https://www.linkedin.com/in/krzysztof-fijol/]
+                  +*+=-:::::+                     🔗 [Portfolio](https://fijolkrzysztof.github.io/portfolio/)
+                   .+*+. :=++                     💼 [LinkedIn](https://www.linkedin.com/in/krzysztof-fijol/)
                       -**+-*.                     
                       .=*#+                       
                       :**=                        
