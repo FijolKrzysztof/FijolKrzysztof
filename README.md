@@ -7,6 +7,8 @@ My repositories serve as playgrounds for testing new ideas and implementing vari
 
 To see all projects in action, visit my [Portfolio](https://fijolkrzysztof.github.io/portfolio/)
 
+Archives: Some of my older, larger experiments and "failed" ideas live over at [IdeasThatLookedBetterOnPaper](https://github.com/IdeasThatLookedBetterOnPaper). It’s a graveyard of code that taught me what not to do.
+
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/krzysztof-fijol/)
 
